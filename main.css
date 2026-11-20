@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Advent+Pro:ital,wght@0,100..900;1,100..900&family=Hurricane&display=swap');
+
+body {
+font-family: "Aboreto", system-ui;
+ /* font-family: "Advent Pro", sans-serif;*/ 
+   /*font-family: "Hurricane", cursive;*/
+  background-color: #fff;
+  color: #000;  
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  
+}
+
+ul {
+  list-style: none;
+}
+
+.header {
+
+}
+
+.logo {
+
+}
+
+.header_nav {
+
+}
+
+.header_list {
+
+}
